@@ -1,0 +1,35 @@
+The emergence of machine learning in the artificial intelligence 
+field led the world of technology to make great strides.
+Today’s advanced systems with the ability of being designed just like human brain
+ functions has given practitioners 
+the ability totrain systems so that they could process, analyze, 
+classify, and predict different data classes. 
+Therefore, the machine learning field has become a hot topic for scientists and 
+researchers to introduce the best network with the highest performance for such
+ mentioned purposes. In this article, computer vision science, image classificat
+ion implementation, and deep neural networks are presented. 
+This article discusses how models have been designed based on the concept of the
+ human brain. 
+The development of a Convolutional Neural Network (CNN) and its various arch
+itectures, which have shown great efficiency and evaluation in object detection,
+ face recognition, image classification, and localization, are also introduced. 
+Furthermore, the utilization and application of CNNs, including voice recogni
+tion, image processing, video processing, and text recognition, are examined closely. 
+A literature review is conducted to illustrate the significance and the deta
+ils of Convolutional Neural Networks in various applications.
+CNN : 
+The most famous architecture is Convolutional Neural Network, the so-called CNN [4]. 
+Convolutional neural networks can be considered as a class of Deep Neural Network. 
+A convolutional neural network has several layers, each with a specific function in processing. 
+This network has shown so much efficiency that large companies such as Google
+, Facebook, and AT&T hired uncountable scientists to design and introduce the
+ best architectures that can be implemented in CNNs. In this section, compone
+nts and the best architectures of CNNs are reviewed [5]. 
+After using different applications, the research resulted in satisfactory pe
+rformance for solving problems, overcoming human error.
+References : 
+[1]	W.-L. Chao, “Machine learning tutorial,” Digit. Image Signal Process., 2011.
+[2]	E. Murphy-Chutorian and M. M. Trivedi, “Head pose estimation in compu
+ter vision: A survey,” IEEE 
+[3]	M. E. Cintra, M. C. Monard, H. A. Camargo, and T. P. Martin, “A compa
+rative study on classic machine learning and fuzzy approaches for classification problems,” 2005.

@@ -1,0 +1,81 @@
+The number of words in This text file is : 348
+The number of characters in This text file is : 1891
+The number of numbers in This text file is : 13
+The number of specialchar in This text file is : 130
+The repeated characters and the number of their occurrence in This text file are : {	=3, 
+=35, “=3, ”=3,  =331, ,=35, -=3, .=31, 0=3, 1=3, 2=3, 5=2, :=3, A=7, C=15, D=2, E=5, F=2, H=2, I=4, M=8, N=20, P=2, T=11, [=5, ]=5, a=149, b=18, c=101, d=62, e=221, f=41, g=35, h=69, i=161, j=2, k=12, l=75, m=39, n=147, o=136, p=36, r=114, s=125, t=143, u=53, v=25, w=19, x=2, y=18, z=5}
+The repeated words and the number of their occurrence in This text file are : {architectures=2, M.=4, E.=2, that=3, shown=2, This=2, has=4, different=2, image=3, efficiency=2, in=7, this=2, is=2, as=2, field=2, scientists=2, :=2, Neural=4, A=3, CNN=2, be=2, neural=3, In=2, for=4, learning=4, best=3, networks=2, network=3, The=3, can=2, systems=2, are=4, and=15, of=9, have=2, ability=2, so=2, human=3, designed=2, on=2, a=4, Convolutional=4, processing,=2, recognition,=2, introduce=2, great=2, the=16, such=2, with=3, machine=3, various=2, to=4}
+The Consecutive chars and their position are : {p=2321, 0=2362, 1=2088, r=1991, s=2338, e=1454, E=2190, f=1878, z=2316, l=1376, N=1841, o=1657}
+The Consecutive words and their position are : {M.=307}
+The text after adding special chars is : The emergence of machine learning in the artificial intelligence 
+field led the world of technology to make great strides.
+Today’s advanced systems with the ability of being designed just like human brain
+ functions has given practitioners 
+the ability totrain systems so that they could process, analyze, 
+classify, and predict different data classes. 
+Therefore, the machine learning field has become a hot topic for scientists and 
+researchers to introduce the best network with the highest performance for such
+ mentioned purposes. In this article, computer vision science, image classificat
+ion implementation, and deep neural networks are presented. 
+This article discusses how models have been designed based on the concept of the
+ human brain. 
+The development of a Convolutional Neural Network (CNN) and its various arch
+itectures, which have shown great efficiency and evaluation in object detection,
+ face recognition, image classification, and localization, are also introduced. 
+Furthermore, the utilization and application of CNNs, including voice recogni
+tion, image processing, video processing, and text recognition, are examined closely. 
+A literature review is conducted to illustrate the significance and the deta
+ils of Convolutional Neural Networks in various applications.
+CNN : 
+The most famous architecture is Convolutional Neural Network, the so-called CNN ["4"]. 
+Convolutional neural networks can be considered as a class of Deep Neural Network. 
+A convolutional neural network has several layers, each with a specific function in processing. 
+This network has shown so much efficiency that large companies such as Google
+, Facebook, and AT&T hired uncountable scientists to design and introduce the
+ best architectures that can be implemented in CNNs. In this section, compone
+nts and the best architectures of CNNs are reviewed ["5"]. 
+After using different applications, the research resulted in satisfactory pe
+rformance for solving problems, overcoming human error.
+References : 
+["1"]	W.-L. Chao, “Machine learning tutorial,” Digit. Image Signal Process., "2""0""1""1".
+["2"]	E. Murphy-Chutorian and M. M. Trivedi, “Head pose estimation in compu
+ter vision: A survey,” IEEE 
+["3"]	M. E. Cintra, M. C. Monard, H. A. Camargo, and T. P. Martin, “A compa
+rative study on classic machine learning and fuzzy approaches for classification problems,” "2""0""0""5".
+
+The text after changing two words with each other is : The emergence of machine learning in the artificial intelligence 
+field led the world of technology to make great ZZxZZtrideZZxZZ.
+Today’ZZxZZ advanced ZZxZZyZZxZZtemZZxZZ with the ability of being deZZxZZigned juZZxZZt like human brain
+ functionZZxZZ haZZxZZ given practitionerZZxZZ 
+the ability totrain ZZxZZyZZxZZtemZZxZZ ZZxZZo that they could proceZZxZZZZxZZ, analyze, 
+claZZxZZZZxZZify, and predict different data claZZxZZZZxZZeZZxZZ. 
+Therefore, the machine learning field haZZxZZ become a hot topic for ZZxZZcientiZZxZZtZZxZZ and 
+reZZxZZearcherZZxZZ to introduce the beZZxZZt network with the higheZZxZZt performance for ZZxZZuch
+ mentioned purpoZZxZZeZZxZZ. In thiZZxZZ article, computer viZZxZZion ZZxZZcience, image claZZxZZZZxZZificat
+ion implementation, and deep neural networkZZxZZ are preZZxZZented. 
+ThiZZxZZ article diZZxZZcuZZxZZZZxZZeZZxZZ how modelZZxZZ have been deZZxZZigned baZZxZZed on the concept of the
+ human brain. 
+The development of a Convolutional Neural Network (CNN) and itZZxZZ variouZZxZZ arch
+itectureZZxZZ, which have ZZxZZhown great efficiency and evaluation in object detection,
+ face recognition, image claZZxZZZZxZZification, and localization, are alZZxZZo introduced. 
+Furthermore, the utilization and application of CNNZZxZZ, including voice recogni
+tion, image proceZZxZZZZxZZing, video proceZZxZZZZxZZing, and text recognition, are examined cloZZxZZely. 
+A literature review iZZxZZ conducted to illuZZxZZtrate the ZZxZZignificance and the deta
+ilZZxZZ of Convolutional Neural NetworkZZxZZ in variouZZxZZ applicationZZxZZ.
+CNN : 
+The moZZxZZt famouZZxZZ architecture iZZxZZ Convolutional Neural Network, the ZZxZZo-called CNN [4]. 
+Convolutional neural networkZZxZZ can be conZZxZZidered aZZxZZ a claZZxZZZZxZZ of Deep Neural Network. 
+A convolutional neural network haZZxZZ ZZxZZeveral layerZZxZZ, each with a ZZxZZpecific function in proceZZxZZZZxZZing. 
+ThiZZxZZ network haZZxZZ ZZxZZhown ZZxZZo much efficiency that large companieZZxZZ ZZxZZuch aZZxZZ Google
+, Facebook, and AT&T hired uncountable ZZxZZcientiZZxZZtZZxZZ to deZZxZZign and introduce the
+ beZZxZZt architectureZZxZZ that can be implemented in CNNZZxZZ. In thiZZxZZ ZZxZZection, compone
+ntZZxZZ and the beZZxZZt architectureZZxZZ of CNNZZxZZ are reviewed [5]. 
+After uZZxZZing different applicationZZxZZ, the reZZxZZearch reZZxZZulted in ZZxZZatiZZxZZfactory pe
+rformance for ZZxZZolving problemZZxZZ, overcoming human error.
+ReferenceZZxZZ : 
+[1]	W.-L. Chao, “Machine learning tutorial,” Digit. Image Signal ProceZZxZZZZxZZ., 2011.
+[2]	E. Murphy-Chutorian and M. M. Trivedi, “Head poZZxZZe eZZxZZtimation in compu
+ter viZZxZZion: A ZZxZZurvey,” IEEE 
+[3]	M. E. Cintra, M. C. Monard, H. A. Camargo, and T. P. Martin, “A compa
+rative ZZxZZtudy on claZZxZZZZxZZic machine learning and fuzzy approacheZZxZZ for claZZxZZZZxZZification problemZZxZZ,” 2005.
+
