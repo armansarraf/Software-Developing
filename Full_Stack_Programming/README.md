@@ -10,21 +10,22 @@ Veterinary Medicine at the University of Calgary to help manage their animals an
 3. Can block users.
 4. Can monitor an animal's status.
 5. Can review comments.
-*Animal care attendants
+* Animal care attendants
 1. Can take photos of animals and upload them.
 2. Can request treatment from technicians.
-3. Can change animals’ status.
+3. Can change animalsâ€™ status.
 4. Can update daily status and treatment.
 5. Can alert disease and problems (location).
-*Animal health technicians
+* Animal health technicians
 1. Can diagnose and prescribe for them.
-2. Can change animals’ status.
+2. Can change animalsâ€™ status.
 3. Can monitor animal status.
-*Teaching Technicians
+* Teaching Technicians
 1. Can request an animal.
 2. Can block and remove students.
 3. Can search and view animal profiles.
 4. Can take comments on animal profiles.
-*Students
+* Students
 1. Can search and view animal profiles.
 2. Can make comments on animal profiles.
+##
