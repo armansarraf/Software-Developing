@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="demo-Spring-Boot-Rest-API-0.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/demo-Spring-Boot-Rest-API/target/demo-Spring-Boot-Rest-API-0.0.1-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

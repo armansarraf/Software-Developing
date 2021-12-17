@@ -1,0 +1,8 @@
+# Publications
+Publication: 1
+
+* Title: Binary Image Classification Through an Optimal Topology for Convolutional Neural Networks
+* Abstract: Deep learning applications in computer vision have expanded over the past years. Image classification, which is the fundamental of most algorithms in the field, has been of interest to many researchers. Advances in hierarchical feature extractions using convolutional neural networks as one of the deep learning architectures have enabled experts to improve the performance of classification significantly. In this work, an optimal binary classifier to distinguish cat and dog images was explored where various architectures and parameters were employed to achieve the best results. To design our experiment, we considered the architectures with two and three convolutional layers using two input image size when models were trained with and without Dropout against an identical dataset. The analysis demonstrated that an accuracy rate of 99.26% for the testing dataset was achieved from a three-layer model with an input image size of 32x32 with Dropout. The classification report of any models was produced to explore other metrics such as precision, recall, and F1-score, and they were aligned with the accuracy rates as this experiment was a balanced data situation.
+* Link: https://asrjetsjournal.org/index.php/American_Scientific_Journal/article/view/5938
+##
+Publication: 2
