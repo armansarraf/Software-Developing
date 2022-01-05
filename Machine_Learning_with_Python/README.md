@@ -1,5 +1,5 @@
 # AI
-###Project 1: CNN Classification for Face Recognition Dogs Vs Cats with 99% Accuracy
+### Project 1: CNN Classification for Face Recognition Dogs Vs Cats with 99% Accuracy
 ##
 Project 2: The goal of this project is to become familiar with the scikit-learn library.
 * We practice loading example datasets, perform classification and regression with multiple scikit-learn models, and compare results between using all features and two principal components as features.
