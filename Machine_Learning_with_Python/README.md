@@ -18,7 +18,7 @@ Answers:
 ### Project 3: Concrete Compressive Strength Regression
 * The goal of this lab is to become familiar a regression workflow by training models to predict concrete strength \[MPa\] based on concrete mixture information using the yellowbrick concrete dataset.
 
-We will try and compare your results to priviously reported models:
+We will try and compare the results to priviously reported models:
 - Polynomial regression: training RMS=3.96 MPa 􏰀(R2 = 0.890); testing RMS=8.82 MPa (􏰀R2 = 0.791)􏰁 
 - Neural network: training RMS=3.01 MPa (􏰀R2 = 0.940);􏰁 testing RMS=4.32 MPa 􏰀(R2 = 0.929)
 
