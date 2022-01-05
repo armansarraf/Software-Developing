@@ -26,8 +26,7 @@ We will try and compare your results to priviously reported models:
 
 Models will be trained to minimize root-mean squared error (RMS), as in the reference article. Note that sklearn works with *maximization* and it is custom to *maximize* the *negative* RMS.
 
-Background
-The yellowbrick concrete dataset originates from UCI and was referenced to the following publication:
+Background: The yellowbrick concrete dataset originates from UCI and was referenced to the following publication:
 >Yeh, I-Cheng. 2006. “Analysis of Strength of Concrete Using Design of Experiments and Neural Networks.” Journal of Materials in Civil Engineering 18 (4): 597–604. https://doi.org/10.1061/(ASCE)0899-1561(2006)18:4(597).
 
 We are going to apply our skills and compare our results to the polynomial regression model and neural network.
