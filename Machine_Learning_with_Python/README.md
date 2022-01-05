@@ -15,7 +15,7 @@ Questions:
 Answers:
 * All the answers and necessary information is provided in the related notebook.
 ##
-### Project3: Concrete Compressive Strength Regression
+### Project 3: Concrete Compressive Strength Regression
 * The goal of this lab is to become familiar a regression workflow by training models to predict concrete strength \[MPa\] based on concrete mixture information using the yellowbrick concrete dataset.
 
 We will try and compare your results to priviously reported models:
@@ -30,4 +30,7 @@ Background: The yellowbrick concrete dataset originates from UCI and was referen
 >Yeh, I-Cheng. 2006. “Analysis of Strength of Concrete Using Design of Experiments and Neural Networks.” Journal of Materials in Civil Engineering 18 (4): 597–604. https://doi.org/10.1061/(ASCE)0899-1561(2006)18:4(597).
 
 We are going to apply our skills and compare our results to the polynomial regression model and neural network.
+##
+### Project 4: Mushroom Classification
+* The goal of this lab is to become familiar with a classification workflow. Models are trained and fine-tuned to predict if a mushroom is edible or poisonous based on mushroom features. Using edible as the negative and poisonous as the positive class, we require a classifier that has very high recall score while maintaining precision at an acceptable level. Therefore, using cross-validation, models are first trained/tuned to maximize area under the precision-recall curve using *average precision* scoring. Second, the probability threshold is adjusted to achieve a desired recall. Finally, the best model is evaluated on the test dataset, and classification report and confusion matrix are produced.
 ##
