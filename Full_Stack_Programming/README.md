@@ -1,7 +1,7 @@
 # Full-Stack-Java
-Project 1: A simple counter that user inputs a number and and increament/decreament it with buttons
+### Project 1: A simple counter that user inputs a number and and increament/decreament it with buttons
 ##
-Project 2: This is a full-stack java team project (Java, MySQL, React axios, JavaScript, HTML, CSS) 
+### Project 2: This is a full-stack java team project (Java, MySQL, React axios, JavaScript, HTML, CSS) 
 Veterinary Medicine at the University of Calgary to help manage their animals and process requests for delivering animals to teaching staff.
 * What problem does this project solve? The School of Veterinary Medicine at the University of Calgary is maintaining and administering medical care to various types of animals. Some of the treatment and prevention measures offered by the school include administering vaccinations, treating injuries, and disease diagnosis and treatment. The school needs a solution to collect and integrate animal data and automate the prevention and treatment process.
 * Admins
