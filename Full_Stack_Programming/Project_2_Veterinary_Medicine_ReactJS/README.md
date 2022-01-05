@@ -1,4 +1,4 @@
-# Final-Project (School of Veterinary Medicine) (Group 981)
+# Final-Project (School of Veterinary Medicine) 
 
 Our goal is to create a web application for the school of Veterinary Medicine at the
 University of Calgary to help manage their animals and process requests for delivering
