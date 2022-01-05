@@ -10,3 +10,4 @@ Questions
 2. For each task (classification and regression), which model performs best on the validation data using two principal components?
 3. In each task (classification and regression), for each model, how do full feature and two principal component model scores compare on the validation data?
 4. Do any of the models underfit or overfit? 
+##
