@@ -15,3 +15,20 @@ Questions:
 Answers:
 * All the answers and necessary information is provided in the related notebook.
 ##
+### Project3: Concrete Compressive Strength Regression
+* The goal of this lab is to become familiar a regression workflow by training models to predict concrete strength \[MPa\] based on concrete mixture information using the yellowbrick concrete dataset.
+
+We will try and compare your results to priviously reported models:
+- Polynomial regression: training RMS=3.96 MPa 􏰀(R2 = 0.890); testing RMS=8.82 MPa (􏰀R2 = 0.791)􏰁 
+- Neural network: training RMS=3.01 MPa (􏰀R2 = 0.940);􏰁 testing RMS=4.32 MPa 􏰀(R2 = 0.929)
+
+**Assumption:** We are assuming that the yellowbrick dataset was used in the reference article and that 20% of the data served as the test set.
+
+Models will be trained to minimize root-mean squared error (RMS), as in the reference article. Note that sklearn works with *maximization* and it is custom to *maximize* the *negative* RMS.
+
+Background
+The yellowbrick concrete dataset originates from UCI and was referenced to the following publication:
+>Yeh, I-Cheng. 2006. “Analysis of Strength of Concrete Using Design of Experiments and Neural Networks.” Journal of Materials in Civil Engineering 18 (4): 597–604. https://doi.org/10.1061/(ASCE)0899-1561(2006)18:4(597).
+
+We are going to apply our skills and compare our results to the polynomial regression model and neural network.
+##
