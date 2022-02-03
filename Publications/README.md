@@ -11,7 +11,7 @@
 * Link: https://www.asrjetsjournal.org/index.php/American_Scientific_Journal/article/view/6232
 ##
 ### Publication: 3
-* Title: The emergence of machine learning in the artificial intelligence field led the world of technology to make great strides.
+* Title: A Comprehensive Review of Deep Learning Architectures for Computer Vision Applications
 * Abstract: Today’s advanced systems with the ability of being designed just like human brain functions has given practitioners the ability to train systems so that they could process, analyze, classify, and predict different data classes. Therefore, the machine learning field has become a hot topic for scientists and researchers to introduce the best network with the highest performance for such mentioned purposes. In this article, computer vision science, image classification implementation, and deep neural networks are presented. This article discusses how models have been designed based on the concept of the human brain. The development of a Convolutional Neural Network (CNN) and its various architectures, which have shown great efficiency and evaluation in object detection, face recognition, image classification, and localization, are also introduced. Furthermore, the utilization and application of CNNs, including voice recognition, image processing, video processing, and text recognition, are examined closely. A literature review is conducted to illustrate the significance and the details of Convolutional Neural Networks in various applications.
 * Link: https://www.asrjetsjournal.org/index.php/American_Scientific_Journal/article/view/6712
 ##
