@@ -73,7 +73,7 @@
 * 4. Application follows the MVC design pattern.
 ##
 ### Project 17: A Movie Theater Ticket Reservation App (GUI)
-In this project task is to analyze, design, and develop a system that can be used by two
+* In this project task is to analyze, design, and develop a system that can be used by two
 group of users: ordinary users that can search for a movie, select an specific theater, view
 available show times, view graphically available seats, select the desired seat, make payment by
 credit card, receive a copy of ticket and the receipt, via email. Users also should be able to cancel
