@@ -30,3 +30,4 @@ Veterinary Medicine at the University of Calgary to help manage their animals an
 2. Can make comments on animal profiles.
 ##
 ### Project 3: E-Bell Call System is a full-stack Python team project (Python, Django, JavaScript, HTML, CSS, BootStrap) 
+Electronic Communication Call Bell System (ECCBS) (web-application) (repo) - Designed and built a web app to manage the communication between patients and nurses in the hospital. The application allows patients to send their emergency, medical, non-medical requests to the nurses in detail via their desktop, tablet, or smartphone. Technology: Python, Django, HTML/CSS, AWS cloud
